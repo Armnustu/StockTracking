@@ -1,0 +1,2 @@
+# StockTracking
+Stok Takip
